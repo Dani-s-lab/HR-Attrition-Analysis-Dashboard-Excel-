@@ -1,6 +1,3 @@
-# HR-Attrition-Analysis-Dashboard-Excel-
-Excel dashboard analyzing the key drivers of employee attrition with actionable HR insights.
-
 # 📊 HR Attrition Analysis Dashboard  
 **Why Employees Leave: A Data‑Driven Attrition Analysis**
 
@@ -21,8 +18,14 @@ The dashboard summarizes **1470 employees**, **237 leavers**, and an overall **a
 - Define clear career paths and internal mobility opportunities for employees aged 26–35.  
 - Provide managerial training and workload assessment in high‑pressure departments (R&D, Sales).  
 - Implement targeted retention programs for employees in their **first 12 months** and **2–5 year** tenure window.
-
-## 📁 Dataset
-IBM HR Analytics Employee Attrition (Kaggle)
-
+- 
 ## 📸 Dashboard Preview
+![Dashboard](images/HR_Dashboard.png)
+
+# 📁 Data Source & License
+This project uses a public dataset available on Kaggle:
+
+- **HR Analytics – Employee Attrition Prediction**  
+  **Source:** Kaggle  
+  **License:** CC0 – Public Domain  
+  **Reference year:** ~4 years ago  
