@@ -18,7 +18,7 @@ The dashboard summarizes **1470 employees**, **237 leavers**, and an overall **a
 - Define clear career paths and internal mobility opportunities for employees aged 26–35.  
 - Provide managerial training and workload assessment in high‑pressure departments (R&D, Sales).  
 - Implement targeted retention programs for employees in their **first 12 months** and **2–5 year** tenure window.
-- 
+
 ## 📸 Dashboard Preview
 ![Dashboard](images/HR_Dashboard.png)
 
