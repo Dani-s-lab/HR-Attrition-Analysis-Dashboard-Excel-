@@ -22,7 +22,7 @@ The dashboard summarizes **1470 employees**, **237 leavers**, and an overall **a
 ## 📸 Dashboard Preview
 ![Dashboard](images/HR_Dashboard.png)
 
-# 📁 Data Source & License
+## 📁 Data Source & License
 This project uses a public dataset available on Kaggle:
 
 - **HR Analytics – Employee Attrition Prediction**  
