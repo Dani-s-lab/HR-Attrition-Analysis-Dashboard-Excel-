@@ -24,7 +24,7 @@ The dashboard summarizes **1470 employees**, **237 leavers**, and an overall **a
 
 ![Dashboard](images/HR_Dashboard.png)
 
-## 📁 Data Source & License
+## 📦 Dataset
 
 This project uses a public dataset available on Kaggle:
 
