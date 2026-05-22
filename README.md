@@ -1,4 +1,5 @@
 # 📊 HR Attrition Analysis Dashboard  
+
 **Why Employees Leave: A Data‑Driven Attrition Analysis**
 
 This project analyzes the key drivers behind employee attrition using a real HR dataset.  
@@ -20,9 +21,11 @@ The dashboard summarizes **1470 employees**, **237 leavers**, and an overall **a
 - Implement targeted retention programs for employees in their **first 12 months** and **2–5 year** tenure window.
 
 ## 📸 Dashboard Preview
+
 ![Dashboard](images/HR_Dashboard.png)
 
 ## 📁 Data Source & License
+
 This project uses a public dataset available on Kaggle:
 
 - **HR Analytics – Employee Attrition Prediction**  
